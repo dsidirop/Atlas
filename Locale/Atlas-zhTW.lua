@@ -242,18 +242,18 @@ AtlasLocale = {
 	["Sunwell Plateau"] = "太陽之井高地"; ["SP"] = "SP";
 	["Tempest Keep"] = "風暴要塞"; ["TK"] = "TK";
 	["Temple of Ahn'Qiraj"] = "安其拉神廟"; ["AQ40"] = "AQ40";
-	["The Arcatraz"] = "亞克崔茲"; ["Arca"] = "Arca/亞克";
-	["The Black Morass"] = "黑色沼澤"; ["CoT2"] = "CoT2/黑沼";
-	["The Blood Furnace"] = "血熔爐"; ["BF"] = "BF";
-	["The Botanica"] = "波塔尼卡"; ["Bota"] = "Bota/波塔";
-	["The Deadmines"] = "死亡礦坑"; ["VC"] = "VC/死礦";
+	["Arcatraz"] = "亞克崔茲"; ["Arca"] = "Arca/亞克";
+	["Black Morass"] = "黑色沼澤"; ["CoT2"] = "CoT2/黑沼";
+	["Blood Furnace"] = "血熔爐"; ["BF"] = "BF";
+	["Botanica"] = "波塔尼卡"; ["Bota"] = "Bota/波塔";
+	["Deadmines"] = "死亡礦坑"; ["VC"] = "VC/死礦";
 	["The Eye"] = "風暴之眼"; ["Eye"] = "Eye";
-	["The Mechanar"] = "麥克納爾"; ["Mech"] = "Mech/麥克";
-	["The Shattered Halls"] = "破碎大廳"; ["SH"] = "SH/破碎";
-	["The Slave Pens"] = "奴隸監獄"; ["SP"] = "SP";
-	["The Steamvault"] = "蒸汽洞窟"; ["SV"] = "SV";
-	["The Stockade"] = "監獄"; ["Stocks"] = "監獄";
-	["The Underbog"] = "深幽泥沼"; ["UB"] = "UB";
+	["Mechanar"] = "麥克納爾"; ["Mech"] = "Mech/麥克";
+	["Shattered Halls"] = "破碎大廳"; ["SH"] = "SH/破碎";
+	["Slave Pens"] = "奴隸監獄"; ["SP"] = "SP";
+	["Steamvault"] = "蒸汽洞窟"; ["SV"] = "SV";
+	["Stockade"] = "監獄"; ["Stocks"] = "監獄";
+	["Underbog"] = "深幽泥沼"; ["UB"] = "UB";
 	["Uldaman"] = "奧達曼"; ["Uld"] = "Uld";
 	["Wailing Caverns"] = "哀嚎洞穴"; ["WC"] = "WC/哀嚎";
 	["Zul'Aman"] = "祖阿曼"; ["ZA"] = "ZA";
@@ -1099,7 +1099,7 @@ AtlasLocale = {
 -- Outland Instances
 --*******************
 	
-	--HFC: The Blood Furnace
+	--HFC: Blood Furnace
 	["Thrallmar"] = "索爾瑪";--omitted from other HFC
 	["Honor Hold"] = "榮譽堡";--omitted from other HFC
 	["Flamewrought Key"] = "火鑄之鑰";--omitted from other HFC
@@ -1107,7 +1107,7 @@ AtlasLocale = {
 	["Broggok"] = "布洛克";
 	["Keli'dan the Breaker"] = "破壞者·凱利丹";
 
-	--HFC: The Shattered Halls
+	--HFC: Shattered Halls
 	["Shattered Halls Key"] = "破碎大廳鑰匙";
 	["Randy Whizzlesprocket"] = "藍迪·威索洛克";
 	["Drisella"] = "崔賽拉";
@@ -1133,7 +1133,7 @@ AtlasLocale = {
 	--HFC: Magtheridon's Lair
 	["Magtheridon"] = "瑪瑟里頓";
 
-	--CR: The Slave Pens
+	--CR: Slave Pens
 	["Cenarion Expedition"] = "塞納里奧遠征隊";--omitted from other CR
 	["Reservoir Key"] = "倉庫之鑰";--omitted from other CR
 	["Mennu the Betrayer"] = "背叛者曼紐";
@@ -1144,7 +1144,7 @@ AtlasLocale = {
 	["Quagmirran"] = "奎克米瑞";
 	["Ahune <The Frost Lord>"] = "艾胡恩";
 
-	--CR: The Underbog
+	--CR: Underbog
 	["Hungarfen"] = "飢餓之牙";
 	["The Underspore"] = "地孢";
 	["Ghaz'an"] = "高薩安";
@@ -1153,7 +1153,7 @@ AtlasLocale = {
 	["Claw <Swamplord Musel'ek's Pet>"] = "喚風者卡勞";
 	["The Black Stalker"] = "黑色捕獵者";
 
-	--CR: The Steamvault
+	--CR: Steamvault
 	["Hydromancer Thespia"] = "海法師希斯比亞";
 	["Main Chambers Access Panel"] = "主房間通道面板";
 	["Second Fragment Guardian"] = "第二碎片守衛者";
@@ -1207,7 +1207,7 @@ AtlasLocale = {
 	["Murmur"] = "莫爾墨";
 	["First Fragment Guardian"] = "第一碎片守衛者";
 
-	--TK: The Botanica
+	--TK: Botanica
 	["The Sha'tar"] = "薩塔";--omitted from other TK
 	["Warpforged Key"] = "扭曲鍛造鑰匙";--omitted from other TK
 	["Commander Sarannis"] = "指揮官薩瑞尼斯";
@@ -1216,8 +1216,8 @@ AtlasLocale = {
 	["Laj"] = "拉杰";
 	["Warp Splinter"] = "扭曲分裂者";
 
-	--TK: The Arcatraz
-	["Key to the Arcatraz"] = "亞克崔茲鑰匙";
+	--TK: Arcatraz
+	["Key to Arcatraz"] = "亞克崔茲鑰匙";
 	["Zereketh the Unbound"] = "無約束的希瑞奇斯";
 	["Third Fragment Guardian"] = "第三碎片守衛者 ";
 	["Dalliah the Doomsayer"] = "末日預言者達利亞";
@@ -1227,7 +1227,7 @@ AtlasLocale = {
 	["Warden Mellichar"] = "守望者米利恰爾";
 	["Millhouse Manastorm"] = "米歐浩斯·曼納斯頓";
 
-	--TK: The Mechanar
+	--TK: Mechanar
 	["Gatewatcher Gyro-Kill"] = "看守者蓋洛奇歐";
 	["Gatewatcher Iron-Hand"] = "看守者鐵手";
 	["Cache of the Legion"] = "軍團儲藏處";

@@ -128,7 +128,7 @@ AtlasMaps = {
 	};
 	-- TheCrescentGrove TurtleWOW
 	TheCrescentGrove = {
-		ZoneName = { AL["The Crescent Grove"],  };
+		ZoneName = { AL["Crescent Grove"],  };
 		Acronym = "CG";
 		Location = { AL["Ashenvale"], 331 };
 		LevelRange = "32-38";
@@ -1186,7 +1186,7 @@ AtlasMaps = {
 		{ GREY..INDENT..AL["Tier 0/0.5 Sets"] };
 	};
 	TheDeadmines = {
-		ZoneName = { AL["The Deadmines"], 1581 };
+		ZoneName = { AL["Deadmines"], 1581 };
 		Acronym = "DM";
 		Location = { AL["Westfall"], 40 };
 		LevelRange = "17-24";
@@ -1212,7 +1212,7 @@ AtlasMaps = {
 		{ GREY..INDENT..AL["Set: "]..BIS["Defias Leather"] };
 	};
 	TheStockade = {
-		ZoneName = { AL["The Stockade"], 717 };
+		ZoneName = { AL["Stockade"], 717 };
 		Acronym = "Stocks";
 		Location = { AL["Stormwind City"], 1519 };
 		LevelRange = "24-31";
@@ -1410,12 +1410,12 @@ AtlasMaps = {
 		{ GREY.."5) "..AL["Cursed Centaur"].." ("..AL["Rare"]..", "..AL["Varies"]..")", NPC, 11688 };
 	};
 	TheDeadminesEnt = {
-		ZoneName = { AL["The Deadmines"].." ("..AL["Entrance"]..")", 1581 };
+		ZoneName = { AL["Deadmines"].." ("..AL["Entrance"]..")", 1581 };
 		Location = { AL["Westfall"], 40 };
 		Acronym = "VC";
 		Continent = AL["Eastern Kingdoms"];
 		{ BLUE.."A) "..AL["Entrance"] };
-		{ BLUE.."B) "..AL["The Deadmines"], ZONE, 1581 };
+		{ BLUE.."B) "..AL["Deadmines"], ZONE, 1581 };
 		{ GREY.."1) "..AL["Marisa du'Paige"].." ("..AL["Rare"]..", "..AL["Varies"]..")", NPC, 599 };
 		{ GREY.."2) "..AL["Brainwashed Noble"].." ("..AL["Rare"]..")", NPC, 596 };
 		{ GREY.."3) "..AL["Foreman Thistlenettle"], NPC, 626 };
@@ -1753,10 +1753,10 @@ AtlasMaps = {
 		{ GREY..INDENT..AL["Blackrock Spire"]..", "..ORNG..AL["Blackrock Mountain"], ZONE, 1583, 25 };
 		{ GREY..INDENT..AL["Molten Core"]..", "..ORNG..AL["Blackrock Depths"], ZONE, 2717, 1584 };
 		{ GREY.."11) "..AL["Hateforge Quarry"]..", "..ORNG..AL["Burning Steppes"], ZONE, 717, 1519 };
-		{ GREY.."12) "..AL["The Stockade"]..", "..ORNG..AL["Stormwind City"], ZONE, 717, 1519 };
+		{ GREY.."12) "..AL["Stockade"]..", "..ORNG..AL["Stormwind City"], ZONE, 717, 1519 };
 		{ GREY..INDENT..AL["Stormwind Vault"]..", "..ORNG..AL["Stormwind City"], ZONE, 717, 1519 };
 		{ GREY.."13) "..AL["Stormwrought Ruins"]..", "..ORNG..AL["Balor"] };
-		{ GREY.."14) "..AL["The Deadmines"]..", "..ORNG..AL["Westfall"], ZONE, 1581, 40 };
+		{ GREY.."14) "..AL["Deadmines"]..", "..ORNG..AL["Westfall"], ZONE, 1581, 40 };
 		{ GREY.."15) "..AL["Karazhan Crypt"]..", "..ORNG..AL["Deadwind Pass"], ZONE, 1581, 40 };
 		{ GREY..INDENT..AL["Lower Karazhan Halls"]..", "..ORNG..AL["Deadwind Pass"], ZONE, 1581, 40 };
 		{ GREY..INDENT..AL["Tower of Karazhan"]..", "..ORNG..AL["Deadwind Pass"] };
@@ -1773,7 +1773,7 @@ AtlasMaps = {
 		{ BLUE.."B) "..AL["Sunnyglade Valley"]..", "..ORNG..AL["Caverns of Time"], ZONE, 3277, 17, 331 };
 		{ GREY.."1) "..AL["Emerald Sanctum"]..", "..ORNG..AL["Hyjal"], ZONE, 719, 331 };
 		{ GREY.."2) "..AL["Blackfathom Deeps"]..", "..ORNG..AL["Ashenvale"], ZONE, 719, 331 };
-		{ GREY.."3) "..AL["The Crescent Grove"]..", "..ORNG..AL["Ashenvale"], ZONE, 719, 331 };
+		{ GREY.."3) "..AL["Crescent Grove"]..", "..ORNG..AL["Ashenvale"], ZONE, 719, 331 };
 		{ GREY.."4) "..AL["Ragefire Chasm"]..", "..ORNG..AL["Orgrimmar"], ZONE, 2437, 1637 };
 		{ GREY.."5) "..AL["Wailing Caverns"]..", "..ORNG..AL["The Barrens"], ZONE, 718, 17 };
 		{ GREY.."6) "..AL["Maraudon"]..", "..ORNG..AL["Desolace"], ZONE, 2100, 405 };

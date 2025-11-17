@@ -231,18 +231,18 @@ AtlasLocale = {
 	["Sunwell Plateau"] = "Plateau du Puits de soleil"; ["SP"] = "SP";
 	["Tempest Keep"] = "Donjon de la Tempête"; ["TK"] = "TK";
 	["Temple of Ahn'Qiraj"] = "Ahn'Qiraj"; ["AQ40"] = "AQ40";
-	["The Arcatraz"] = "L'Arcatraz"; ["Arca"] = "Arca";
-	["The Black Morass"] = "Le Noir Marécage"; ["CoT2"] = "CoT2/GT2";
-	["The Blood Furnace"] = "La Fournaise du sang"; ["BF"] = "BF";
-	["The Botanica"] = "La Botanica"; ["Bota"] = "Bota";
-	["The Deadmines"] = "Les Mortemines"; ["VC"] = "VC";
+	["Arcatraz"] = "L'Arcatraz"; ["Arca"] = "Arca";
+	["Black Morass"] = "Le Noir Marécage"; ["CoT2"] = "CoT2/GT2";
+	["Blood Furnace"] = "La Fournaise du sang"; ["BF"] = "BF";
+	["Botanica"] = "La Botanica"; ["Bota"] = "Bota";
+	["Deadmines"] = "Les Mortemines"; ["VC"] = "VC";
 	["The Eye"] = "L'Œil"; ["Eye"] = "Eye/TK";
-	["The Mechanar"] = "Le Méchanar"; ["Mech"] = "Mech";
-	["The Shattered Halls"] = "Les Salles brisées"; ["SH"] = "SH";
-	["The Slave Pens"] = "Les enclos aux esclaves"; ["SP"] = "SP";
-	["The Steamvault"] = "Le Caveau de la vapeur"; ["SV"] = "SV";
-	["The Stockade"] = "La Prison"; ["Stocks"] = "Stocks/Prison";
-	["The Underbog"] = "La Basse-tourbière"; ["UB"] = "UB";
+	["Mechanar"] = "Le Méchanar"; ["Mech"] = "Mech";
+	["Shattered Halls"] = "Les Salles brisées"; ["SH"] = "SH";
+	["Slave Pens"] = "Les enclos aux esclaves"; ["SP"] = "SP";
+	["Steamvault"] = "Le Caveau de la vapeur"; ["SV"] = "SV";
+	["Stockade"] = "La Prison"; ["Stocks"] = "Stocks/Prison";
+	["Underbog"] = "La Basse-tourbière"; ["UB"] = "UB";
 	["Uldaman"] = "Uldaman"; ["Uld"] = "Uld";
 	["Wailing Caverns"] = "Cavernes des lamentations"; ["WC"] = "WC/Lam";
 	["Zul'Aman"] = "Zul'Aman"; ["ZA"] = "ZA";
@@ -1090,7 +1090,7 @@ AtlasLocale = {
 -- Outland Instances
 --*******************
 	
-	--HFC: The Blood Furnace
+	--HFC: Blood Furnace
 	["Thrallmar"] = "Thrallmar";--omitted from other HFC
 	["Honor Hold"] = "Bastion de l'honneur";--omitted from other HFC
 	["Flamewrought Key"] = "Clé en flammes forgées";--omitted from other HFC
@@ -1098,7 +1098,7 @@ AtlasLocale = {
 	["Broggok"] = "Broggok";
 	["Keli'dan the Breaker"] = "Keli'dan le Briseur";
 	
-	--HFC: The Shattered Halls
+	--HFC: Shattered Halls
 	["Shattered Halls Key"] = "Clé des Salles brisées";
 	["Randy Whizzlesprocket"] = "Randy Vizirouage";
 	["Drisella"] = "Drisella";
@@ -1124,7 +1124,7 @@ AtlasLocale = {
 	--HFC: Magtheridon's Lair
 	["Magtheridon"] = "Magtheridon";
 
-	--CR: The Slave Pens
+	--CR: Slave Pens
 	["Cenarion Expedition"] = "Expédition cénarienne";--omitted from other CR
 	["Reservoir Key"] = "Clé du réservoir";--omitted from other CR
 	["Mennu the Betrayer"] = "Mennu le Traître";
@@ -1135,7 +1135,7 @@ AtlasLocale = {
 	["Quagmirran"] = "Bourbierreux";
 	["Ahune <The Frost Lord>"] = "Ahune <Le seigneur du Givre>";
 	
-	--CR: The Underbog
+	--CR: Underbog
 	["Hungarfen"] = "Hungarfen";
 	["The Underspore"] = "Palme de sporielle";
 	["Ghaz'an"] = "Ghaz'an";
@@ -1144,7 +1144,7 @@ AtlasLocale = {
 	["Claw <Swamplord Musel'ek's Pet>"] = "Griffe <Familier du seigneur des marais Musel'ek>";
 	["The Black Stalker"] = "La Traqueuse noire";
 	
-	--CR: The Steamvault
+	--CR: Steamvault
 	["Hydromancer Thespia"] = "Hydromancienne Thespia";
 	["Main Chambers Access Panel"] = "Panneau d'accès de la salle principale";
 	["Second Fragment Guardian"] = "Gardien du second fragment";
@@ -1198,7 +1198,7 @@ AtlasLocale = {
 	["Murmur"] = "Marmon";
 	["First Fragment Guardian"] = "Gardien du premier fragment";
 	
-	--TK: The Botanica
+	--TK: Botanica
 	["The Sha'tar"] = "Les Sha'tar";--omitted from other TK
 	["Warpforged Key"] = "Clé dimensionnelle";--omitted from other TK
 	["Commander Sarannis"] = "Commandant Sarannis";
@@ -1207,8 +1207,8 @@ AtlasLocale = {
 	["Laj"] = "Laj";
 	["Warp Splinter"] = "Brise-dimension";
 	
-	--TK: The Arcatraz
-	["Key to the Arcatraz"] = "Clé de l'Arcatraz";
+	--TK: Arcatraz
+	["Key to Arcatraz"] = "Clé de l'Arcatraz";
 	["Zereketh the Unbound"] = "Zereketh le Délié";
 	["Third Fragment Guardian"] = "Gardien du troisième fragment";
 	["Dalliah the Doomsayer"] = "Dalliah l'Auspice-funeste";
@@ -1218,7 +1218,7 @@ AtlasLocale = {
 	["Warden Mellichar"] = "Gardien Mellichar";
 	["Millhouse Manastorm"] = "Milhouse Tempête-de-mana";
 	
-	--TK: The Mechanar
+	--TK: Mechanar
 	["Gatewatcher Gyro-Kill"] = "Gardien de porte Gyro-Meurtre";
 	["Gatewatcher Iron-Hand"] = "Gardien de porte Main-en-fer";
 	["Cache of the Legion"] = "Cache de la Légion";
